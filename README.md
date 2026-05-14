@@ -1,8 +1,15 @@
-<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+## Aspiring Backend & Cloud Developer / 벡엔드 & 클라우드 개발자 준비
+백엔드와 클라우드를 공부하고 있는 개발자 지망생입니다.  
+구조를 이해하고, 직접 부딪히며, 피드백을 통해 개선하는 과정을 좋아합니다.
 
-## startupcode / 스타트업코드
-안녕하세요! 백엔드/클라우드 개발자 입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.
-항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
+비판과 피드백은 언제든 환영합니다.
+
+### Hi, I'm Jihyeon Kim 👋
+
+I'm an aspiring Backend & Cloud Developer who enjoys structured thinking, problem solving, and learning by building.
+
+I value honest feedback and steady improvement.  
+Constructive criticism is always welcome.
 <br />
 <br />
 <br />
@@ -14,16 +21,18 @@
 <br />
 <br />
 ## How i work
-저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다. 어려운 프로덕트를 성공 시키는 경험또한 재미있고 기술을 쉽게 풀어내는 것 또한 재미있습니다 :) 그리고 무조건 약속한 시간을 지키기 위해 노력하며 단순히 약속한 시간을 지키는것이 아닌 최대한 완성도를 높이기 위해서 노력합니다!
-저는 장비에 관심이 많아서 모든 장비가 세팅되어 있는 환경을 좋아합니다 :) 그래서 자택하는걸 좋아하지만 가끔은 카페에서 일하는것도 좋습니다.
+카카오테크 부트캠프 클라우드 네이티브 4기 수강 중에 있습니다.
+성장욕구가 크고 왜?라는 생각이 하루에도 수십번 떠오르는 편이라
+작업을 할 때도 이런 저의 성격을 반영하고 있습니다. 
+
+사람들과 소통하는데도 거리낌없고 모두의 생각을 존중하며 운영되는 것이
+건강한 방향이라고 생각을 하며 팀 생활에도 잘 적응하는 편입니다. 
 <br />
 <br />
 <br />
 ## Skills
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
