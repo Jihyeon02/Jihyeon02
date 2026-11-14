@@ -29,29 +29,35 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 1. StockSpoon — AI Agent 모의주식 매매 서비스 클라우드 인프라
-> **카카오테크 부트캠프 4기 파이널 프로젝트** · `2026.09 – 2026.11` · [🔗 Repository](https://github.com/100-hours-a-week/KTB4-11th-Cloud)
+### 📈 StockSpoon — AI 에이전트와 함께 배우는 실시간 모의투자 웹 서비스
+> **Role:** `Cloud` · **Period:** `2026.09 – 2026.11` · [🔗 Repository](https://github.com/100-hours-a-week/KTB4-11th-Cloud)
 
-- **HTTP Flooding 대응 & 관측성**: `CloudFront WAF` IP별 Rate-limit ACL 및 `Valkey` 요청 제한으로 Flooding 공격에 대응하고, `Prometheus · Loki · Grafana` 기반 부하·느린 쿼리 모니터링을 구축했습니다.
-- **무중단 DB 마이그레이션**: 운영 중 컨테이너 MySQL을 EC2로 무중단 이전했습니다. (전환 구간 `2.6초` API 오류율 `0%`, 쓰기 무손실 검증)
-- **IaC & CI/CD 자동화**: `Terraform` + S3 상태 관리 및 `GitHub Actions` 배포 파이프라인을 구축해 배포 시간 중앙값을 `3분 10초`대로 단축했습니다.
+실시간 주식 시세를 보며 직접 매매도 하고, AI 에이전트의 투자 전략을 참고해 투자를 학습할 수 있는 모의주식 플랫폼입니다.  
+서비스가 끊기지 않고 안정적으로 돌아갈 수 있도록 **AWS 클라우드 인프라, CI/CD 자동화, HTTP Flooding 대응 및 모니터링**을 맡았습니다.
 
-<br />
-
-### 2. 동문서답 — 사용설명서 기반 RAG AI 챗봇
-> **팀 프로젝트** · `2025.06 – 2025.08` · [🔗 Repository](https://github.com/DongMunSeoDap/dongmunseodap_BackEnd)
-
-- **RAG 질의응답 파이프라인 & Gateway 세팅**: `Spring Boot 3` · `Spring AI` · `OpenAI` · `Pinecone` 기반 한국어 매뉴얼 Q&A API를 구현했습니다.
-- **응답 품질 개선**: 근거 기반 프롬프트와 질문 재작성을 적용해 환각률 `19.7% → 0%`, 범위 밖 질문 거절률 `33% → 100%`를 달성했습니다.
+<!-- TODO: 서비스 동작 스크린샷 / GIF 추가 예정 -->
 
 <br />
 
-### 3. Kakaotech Board — 게시판 백엔드 서버
-> **카카오테크 개인 프로젝트** · `2026.07` · [🔗 Repository](https://github.com/Jihyeon02/kakaotech-board-personal)
+### 💬 동문서답 — 가전·기기 사용설명서를 대신 읽어주는 RAG AI 챗봇
+> **Role:** `Backend` · **Period:** `2025.06 – 2025.08` · [🔗 Repository](https://github.com/DongMunSeoDap/dongmunseodap_BackEnd)
 
-- **백엔드 아키텍처 & 검색 기능**: `Java` · `Spring` 기반 게시판 CRUD 및 검색 기능(`Feat/search`)을 설계·구현했습니다.
+두꺼운 제품 설명서를 뒤지지 않아도, 궁금한 점을 물어보면 매뉴얼 근거를 찾아 자연스럽게 답해 주는 AI Q&A 서비스입니다.  
+**Spring AI 기반 RAG 질의응답 파이프라인과 Gateway 서버**를 맡아 구현했습니다.
+
+<!-- TODO: 서비스 동작 스크린샷 / GIF 추가 예정 -->
+
+<br />
+
+### 📝 Kakaotech Board — 깔끔한 검색과 소통에 집중한 게시판 서비스
+> **Role:** `Backend` · **Period:** `2026.07` · [🔗 Repository](https://github.com/Jihyeon02/kakaotech-board-personal)
+
+사용자가 글을 쓰고 원하는 정보를 빠르게 찾아볼 수 있는 개인 게시판 웹 서비스입니다.  
+**Java / Spring 기반 백엔드 서버와 게시글 검색 기능**을 직접 설계하고 구현했습니다.
+
+<!-- TODO: 서비스 동작 스크린샷 / GIF 추가 예정 -->
 
 ---
 
