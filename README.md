@@ -1,62 +1,86 @@
-## Aspiring Backend & Cloud Developer / 벡엔드 & 클라우드 개발자 준비
-백엔드와 클라우드를 공부하고 있는 개발자 지망생입니다.  
-구조를 이해하고, 직접 부딪히며, 피드백을 통해 개선하는 과정을 좋아합니다.
+<div align="center">
 
-비판과 피드백은 언제든 환영합니다.
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:06b6d4&height=210&section=header&text=Jihyeon%20Kim&fontSize=52&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Backend%20%26%20DevOps%20Experience&descAlignY=60&descSize=18&fontColor=ffffff&animation=fadeIn" alt="Header Banner" />
 
-### Hi, I'm Jihyeon Kim 👋
+<!-- Typing Animation -->
+<a href="https://github.com/Jihyeon02">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Backend+%26+DevOps+Experience+%E2%86%92+Aspiring+Backend+Engineer;Finding+%26+Solving+Service+and+Workflow+Bottlenecks;Zero-Downtime+Migration+%C2%B7+IaC+%C2%B7+Observability" alt="Typing SVG" />
+</a>
 
-I'm an aspiring Backend & Cloud Developer who enjoys structured thinking, problem solving, and learning by building.
+<br />
 
-I value honest feedback and steady improvement.  
-Constructive criticism is always welcome.
-<br />
-<br />
-<br />
-## My values
-😎 모든것은 재미있어야 합니다<br />
-👌 안전성을 겸비한 속도를 지향 합니다<br />
-🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
-<br />
-<br />
-<br />
-## How i work
-카카오테크 부트캠프 클라우드 네이티브 4기 수강 중에 있습니다.
-성장욕구가 크고 왜?라는 생각이 하루에도 수십번 떠오르는 편이라
-작업을 할 때도 이런 저의 성격을 반영하고 있습니다. 
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@jihyeon02)
+[![StockSpoon Medium](https://img.shields.io/badge/StockSpoon%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chukchukants)
+[![Hits](https://hits.sh/github.com/Jihyeon02/Jihyeon02.svg?style=for-the-badge&label=VISITS&color=2563EB&labelColor=1E293B)](https://hits.sh/github.com/Jihyeon02/Jihyeon02/)
 
-사람들과 소통하는데도 거리낌없고 모두의 생각을 존중하며 운영되는 것이
-건강한 방향이라고 생각을 하며 팀 생활에도 잘 적응하는 편입니다. 
-<br />
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=Babel&logoColor=black">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=black">
 </div>
-#### I've used it before.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=iOS&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white">
-  <img src="https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
-<br />
-<br />
+
+---
+
+## 👋 About Me
+
+> **Backend**와 **DevOps** 경험을 바탕으로 안정적인 서비스를 만드는 개발자 김지현입니다.  
+> 현재 **Backend 엔지니어** 직무를 희망하며, 서비스의 병목뿐 아니라 업무 진행의 병목까지 발견하고 해결해 나갑니다.
+
+| | 가치관 | 지향점 |
+| :---: | :--- | :--- |
+| 😎 | **모든 것은 재미있어야 합니다** | 호기심을 원동력으로 "왜?"를 파고듭니다. |
+| 👌 | **안정성을 겸비한 속도를 지향합니다** | 무중단·데이터 정합성·자동화로 안전한 빠른 배포를 만듭니다. |
+| 🦻 | **쉽게 말하고 어렵게 들으려고 노력합니다** | 적극적인 소통으로 팀의 병목을 줄입니다. |
+
+---
+
+## 🚀 Featured Projects
+
+### 1. StockSpoon — AI Agent 모의주식 매매 서비스 클라우드 인프라
+> **카카오테크 부트캠프 4기 파이널 프로젝트** · `2026.09 – 2026.11` · [🔗 Repository](https://github.com/100-hours-a-week/KTB4-11th-Cloud)
+
+- **무중단 DB 마이그레이션**: 운영 중 컨테이너 MySQL을 EC2로 무중단 이전 (전환 구간 `2.6초` API 오류율 `0%`, 쓰기 무손실 검증)
+- **IaC & CI/CD 자동화**: `Terraform` + S3 상태 관리 및 `GitHub Actions` 배포 파이프라인 구축 (배포 시간 중앙값 `3분 10초`대 단축)
+- **트래픽 분리 & 관측성**: 실시간 시세(SSE)와 주문/백엔드 서버 분리, `Prometheus · Loki · Grafana` 기반 느린 쿼리 및 부하 모니터링 구축
+
 <br />
 
-Copyright ⓒ startupcode yaro
+### 2. 동문서답 — 사용설명서 기반 RAG AI 챗봇
+> **팀 프로젝트** · `2025.06 – 2025.08` · [🔗 Repository](https://github.com/DongMunSeoDap/dongmunseodap_BackEnd)
+
+- **RAG 질의응답 파이프라인 & Gateway 세팅**: `Spring Boot 3` · `Spring AI` · `OpenAI` · `Pinecone` 기반 한국어 매뉴얼 Q&A API 구현
+- **응답 품질 개선**: 근거 기반 프롬프트와 질문 재작성을 적용해 환각률 `19.7% → 0%`, 범위 밖 질문 거절률 `33% → 100%` 개선
+
+<br />
+
+### 3. Kakaotech Board — 게시판 백엔드 서버
+> **카카오테크 개인 프로젝트** · `2026.07` · [🔗 Repository](https://github.com/Jihyeon02/kakaotech-board-personal)
+
+- **백엔드 아키텍처 & 검색 기능**: `Java` · `Spring` 기반 게시판 CRUD 및 검색 기능(`Feat/search`) 설계·구현
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+**Backend & Database**  
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,mysql,redis" alt="Backend Stack" />
+
+<br /><br />
+
+**Cloud & DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,nginx,prometheus,grafana" alt="DevOps Stack" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jihyeon02&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jihyeon02's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jihyeon02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1e3a8a&height=100&section=footer" alt="Footer Banner" />
